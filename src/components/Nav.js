@@ -59,5 +59,4 @@ const Logo = styled.a`
   img {
     display: block;
     width: 100%;
-
 `
